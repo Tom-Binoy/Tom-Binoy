@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tom-Binoy
-- 👀 I’m interested in coding, Editing, Animating, Playing games, and Drawing.
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on 3D Animation...
+- 👀 I’m interested in coding(all kind of), Editing, Animating, Playing games, and Drawing.
+- 🌱 I already know a bunch stuff... But there's always more to explore.
+- 💞️ I can collaborate with anyone on any of the above skills
 - 📫 How to reach me tom2binoy@gmail.com
 
 <!---
